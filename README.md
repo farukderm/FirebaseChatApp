@@ -30,8 +30,15 @@ Firebase Firestore: Gerçek zamanlı mesajlaşma veritabanı.
 
 3. Sass
 
+
 Uygulamanın stil yönetimi için kullanılmıştır.
 
 4. emoji-picker-react
 
 Mesajlara emoji ekleme özelliği sunar.
+
+
+## Ekran Görüntüsü
+
+https://github.com/user-attachments/assets/b2095701-722d-49ac-a60f-95646d09ebd5
+
